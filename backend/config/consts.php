@@ -1,0 +1,6 @@
+<?php
+
+const COUNT_OF_POPULAR_ARTICLES_ON_PAGE = 5;
+const COUNT_OF_ARTICLES_ON_NEWS_PAGE = 3;
+
+?>
